@@ -1,6 +1,6 @@
 # Stanford Cars Classification Using ResNet50 with Progressive Unfreezing
 
-This project tackles the **Stanford Cars Dataset** using **ResNet50** for fine-grained car model classification.  
+This exercise tackles the **Stanford Cars Dataset** using **ResNet50** for fine-grained car model classification.  
 The task involves recognizing **196 distinct car models** through transfer learning and **progressive unfreezing**.
 
 To improve transfer learning performance, the model is fine-tuned in **three stages** instead of unfreezing the entire network at once:
